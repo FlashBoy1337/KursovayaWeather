@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Прогноз Погоды</string>
+    <string name="search_hint">Введите название города</string>
+    <string name="btn_find">Найти</string>
+
+    <string name="wind_speed_format">Скорость ветра: %1$.1f м/с</string>
+    <string name="temp_format">%1$.1f°C</string>
+
+    <string name="error_empty_input">Пожалуйста, введите название города</string>
+    <string name="error_not_found">Город не найден</string>
+    <string name="error_network">Ошибка сети</string>
+
+    <string name="status_clear">Ясно</string>
+    <string name="status_cloudy">Переменная облачность</string>
+    <string name="status_fog">Туман</string>
+    <string name="status_drizzle">Морось</string>
+    <string name="status_rain">Дождь</string>
+    <string name="status_snow">Снегопад</string>
+    <string name="status_storm">Гроза</string>
+    <string name="status_unknown">Облачно</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_standard">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="card_padding">24dp</dimen>
+    <dimen name="margin_top_content">40dp</dimen>
+
+
+    <dimen name="search_bar_height">56dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+
+    <dimen name="text_size_temp">64sp</dimen>
+    <dimen name="text_size_city">32sp</dimen>
+    <dimen name="text_size_status">18sp</dimen>
+    <dimen name="text_size_details">16sp</dimen>
+</resources>

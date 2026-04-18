@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">WeatherCourseWork</string>
+    <string name="app_name">Weather CourseWork</string>
+    <string name="search_hint">Enter city name</string>
+    <string name="btn_find">Find</string>
+
+
+    <string name="wind_speed_format">Wind speed: %1$.1f m/s</string>
+    <string name="temp_format">%1$.1f°C</string>
+
+
+    <string name="error_empty_input">Please enter a city name</string>
+    <string name="error_not_found">City not found</string>
+    <string name="error_network">Network error</string>
+
+
+    <string name="status_clear">Clear</string>
+    <string name="status_cloudy">Cloudy</string>
+    <string name="status_fog">Fog</string>
+    <string name="status_drizzle">Drizzle</string>
+    <string name="status_rain">Rain</string>
+    <string name="status_snow">Snow</string>
+    <string name="status_storm">Storm</string>
+    <string name="status_unknown">Overcast</string>
 </resources>
